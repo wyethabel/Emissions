@@ -1,3 +1,5 @@
-# Emissions
-Contains a webapp for 2000-2020 world food processing emissions
+# Streamlit Dashboard
+This project was focused on embedding a Folium choropleth map into a Streamlit web-dashboard. 
+
+It features a sidebar with multiple selectors, an interactive map with popups, and 2 scalable linegraphs showing change over time.
 
